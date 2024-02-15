@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.label_scan.app-mergeDebugResources-29:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/richard/.gradle/caches/transforms-4/ed8cb2d7b9bd79d32871c0485e7fecf8/transformed/appcompat-1.6.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
